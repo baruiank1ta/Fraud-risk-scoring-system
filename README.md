@@ -101,6 +101,6 @@ To run the application locally, follow these steps:
 
   streamlit run app.py
 
-5.Open the application in your browser (typically at http://localhost:8501) and enter transaction details to evaluate fraud risk in real time.
+5.Open the application in your browser and enter transaction details to evaluate fraud risk in real time.
 
 Live Demo Link: https://fraud-risk-scoring-system-dwqzche6zkgvh99j9a7oaz.streamlit.app
